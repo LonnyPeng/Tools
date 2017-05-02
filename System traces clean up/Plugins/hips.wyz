@@ -1,0 +1,8 @@
+[Info]
+Title=DefenseWall HIPS
+Provider=WYWZ
+Description=HIPS
+Selected=1
+Version=1
+
+DelFile=%USERPROFILE%\Application Data\DefenseWall HIPS\defensewall_log.log

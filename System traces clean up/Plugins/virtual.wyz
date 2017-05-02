@@ -1,0 +1,8 @@
+[Info]
+Title=virtual drive manager
+Provider=WYWZ
+Description=ĞéÄâ¹âÇı
+Selected=1
+Version=1
+
+DelRegValueList=HKEY_CURRENT_USER\Software\Towodo Software\ĞéÄâÇı¶¯Æ÷\Settings\Mount Image File,all

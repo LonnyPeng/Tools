@@ -1,0 +1,8 @@
+[Info]
+Title=dr.web
+Provider=WYWZ
+Description=É±¶¾Èí¼þ
+Selected=1
+Version=1
+
+DelFile=%USERPROFILE%\DoctorWeb\*.log

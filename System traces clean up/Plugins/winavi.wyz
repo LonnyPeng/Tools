@@ -1,0 +1,8 @@
+[Info]
+Title=winavi
+Provider=WYWZ
+Description=ÊÓÆµ×ª»»Èí¼þ
+Selected=1
+Version=1
+
+DelFile=%USERPROFILE%\Local Settings\Application Data\WinAVI\debug.log

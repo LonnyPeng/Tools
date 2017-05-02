@@ -1,0 +1,9 @@
+[Info]
+Title=Multimedia Builder
+Provider=WYWZ
+Description=自动播放程序制作软件
+Selected=1
+Version=1
+
+DelRegValueList=HKEY_CURRENT_USER\Software\Mediachance\Multimedia Builder\Export,all
+DelRegValueList=HKEY_CURRENT_USER\Software\Mediachance\Multimedia Builder\Recent File List,all

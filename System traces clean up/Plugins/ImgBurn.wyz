@@ -1,0 +1,8 @@
+[Info]
+Title=ImgBurn
+Provider=WYWZ
+Description=╧Бел©лб╪хМ╪Ч
+Selected=1
+Version=1
+
+DelFile=%USERPROFILE%\Application Data\ImgBurn\Log Files\*.log

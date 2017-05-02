@@ -1,0 +1,12 @@
+[Info]
+Title=删除skype聊天记录
+Provider=wywz
+Description=SkypeChat-删除skype聊天记录
+Selected=1
+Version=1
+
+DelFile=%AppData%\Skype\*.dat,SubFolder
+DelFile=%AppData%\Skype\chat*,SubFolder
+DelFile=%LocalAppData%\Skype\*.dat,SubFolder
+DelFile=%LocalAppData%\Skype\chat*,SubFolder
+DelFile=%MyDocuments%\My Skype Content\*.*,SubFolder

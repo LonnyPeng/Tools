@@ -1,0 +1,8 @@
+[Info]
+Title=gpass
+Provider=WYWZ
+Description=
+Selected=1
+Version=1
+
+DelFile=%USERPROFILE%\Application Data\GPass\*.*,SubFolder

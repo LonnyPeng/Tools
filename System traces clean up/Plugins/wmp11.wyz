@@ -1,0 +1,14 @@
+[Info]
+Title=wmp11
+Provider=WYWZ
+Description=wmp11
+Selected=1
+Version=1
+
+DelRegKeyList=HKEY_CURRENT_USER\Software\Microsoft\MediaPlayer\Player\RecentURLList,all
+DelRegValue=HKEY_CURRENT_USER\Software\Microsoft\MediaPlayer\Player\Settings,OpenDir
+DelRegKeyList=HKEY_CURRENT_USER\Software\Microsoft\MediaPlayer\Player\RecentFileList,all
+DelFile=%USERPROFILE%\\Local Settings\Application Data\Microsoft\Media Player\lastplayed.wpl
+DelFile=%USERPROFILE%\Local Settings\Application Data\Microsoft\Media Player\*.wmdb
+DelFile=%USERPROFILE%\Local Settings\Application Data\Microsoft\Media Player\»­Ãæ»º´æ\*
+DelFile=%USERPROFILE%\My Documents\My Music\My Playlists\*.wpl

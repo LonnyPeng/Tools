@@ -1,0 +1,11 @@
+[Info]
+Title=删除skype使用痕迹
+Provider=wywz
+Description=删除skype使用痕迹
+Selected=1
+Version=1
+
+DelRegKeyList=HKEY_CURRENT_USER\Software\Skype,all
+DelFile=%AppData%\Skype\*.*,SubFolder
+DelFile=%LocalAppData%\Skype\*.*,SubFolder
+DelFile=%MyDocuments%\My Skype Content\*.*,SubFolder

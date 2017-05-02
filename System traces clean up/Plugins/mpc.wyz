@@ -1,0 +1,11 @@
+[Info]
+Title=mpc
+Provider=WYWZ
+Description=
+Selected=1
+Version=1
+
+DelRegValueList=HKEY_CURRENT_USER\Software\Gabest\Media Player Classic\Settings,File Name*
+DelRegKey=HKEY_CURRENT_USER\Software\Gabest\Media Player Classic\Recent File List,
+DelRegKey=HKEY_CURRENT_USER\Software\Gabest\Media Player Classic\Recent Dub List,
+DelFile=%USERPROFILE%\Application Data\Media Player Classic\*.mpcpl
